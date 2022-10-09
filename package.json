@@ -1,0 +1,15 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Quick bot of test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "X2L",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^2.1.0",
+    "discord": "^0.8.2"
+  }
+}
